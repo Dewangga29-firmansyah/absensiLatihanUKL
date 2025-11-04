@@ -34,11 +34,11 @@ API ini memiliki fitur untuk **menambahkan user**, **mencatat presensi (Hadir, I
 ## Cara Menjalankan Program
 1. Clone repository dari GitHub:
    ```bash
-   git clone https://github.com/MohammadKevin/System_absensi
+   https://github.com/Dewangga29-firmansyah/absensiLatihanUKL
    ```
 2. Masuk ke folder project:
    ```bash
-   cd SYSTEM-PRESENSI
+   cd System_absensi-main
    ```
 3. Install semua dependency:
    ```bash
