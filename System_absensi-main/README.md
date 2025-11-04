@@ -7,8 +7,8 @@ API ini memiliki fitur untuk **menambahkan user**, **mencatat presensi (Hadir, I
 ---
 
 ## Identitas
-**Nama:** Mohammad Kevin Arif Rudianto
-**Kelas:** XI RPL 3
+**Nama:** Dewangga Firmansyah
+**Kelas:** XI RPL 4
 **Mapel:** Produktif
 
 ---
